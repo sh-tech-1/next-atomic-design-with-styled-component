@@ -1,6 +1,6 @@
 import React, { FC, ReactNode } from 'react'
 
-import { Wrapper, Navigation, Content, Footer } from './styles'
+import { Content, Footer, Navigation, Wrapper } from './styles'
 
 interface PageTemplateProps {
 	navigation: ReactNode
